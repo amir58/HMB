@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636358084376",
+    "project_id": "hmb-app-c2969",
+    "storage_bucket": "hmb-app-c2969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636358084376:android:29e355c0d15537fde0006d",
+        "android_client_info": {
+          "package_name": "com.gp.hmb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636358084376-63qbc5a6bemaiun8t7dl9njp8232bev5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0BlEIWnhnbKgNcdQsnngRw0HNDH8Gf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636358084376-63qbc5a6bemaiun8t7dl9njp8232bev5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
